@@ -1639,10 +1639,10 @@
     "@babel/runtime" "^7.12.5"
     "@testing-library/dom" "^7.28.1"
 
-"@testing-library/user-event@^13.0.1":
-  version "13.0.1"
-  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-13.0.1.tgz#a1c0727ca3eefa6f9bd0ccce98d02770e6446e8f"
-  integrity sha512-7n3Y5Vohib6yVFW60JlCvQOqBDIlE1SRyo78nmoHwePAg3SVhnfyOI30RYNj3yFF7qy7e0uVlewzTyvNxyJjEA==
+"@testing-library/user-event@^13.0.8":
+  version "13.0.8"
+  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-13.0.8.tgz#1cdba4aeaddca55b9fa21bb2d46fb887abc0d011"
+  integrity sha512-lIqDFl67+9SP7N3ASO3F9ZEsSAWJww2l3SQ02O0dW3IXNyrnWqW8X3ORky2dXb7lEqaMM4dc8j8nZfdQlT27jQ==
   dependencies:
     "@babel/runtime" "^7.12.5"
 
@@ -1787,7 +1787,7 @@
   dependencies:
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@*", "@types/jest@^26.0.21":
+"@types/jest@*", "@types/jest@^26.0.20":
   version "26.0.21"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-26.0.21.tgz#3a73c2731e7e4f0fbaea56ce7ff8c79cf812bd24"
   integrity sha512-ab9TyM/69yg7eew9eOwKMUmvIZAKEGZYlq/dhe5/0IMUd/QLJv5ldRMdddSn+u22N13FP3s5jYyktxuBwY0kDA==
@@ -1820,7 +1820,7 @@
   resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.3.tgz#3dca0e3f33b200fc7d1139c0cd96c1268cadfd9d"
   integrity sha512-tHq6qdbT9U1IRSGf14CL0pUlULksvY9OZ+5eEgl1N7t+OA3tGvNpxJCzuKQlsNgCVwbAs670L1vcVQi8j9HjnA==
 
-"@types/node@*", "@types/node@^14.14.35":
+"@types/node@*", "@types/node@^14.14.33":
   version "14.14.35"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.35.tgz#42c953a4e2b18ab931f72477e7012172f4ffa313"
   integrity sha512-Lt+wj8NVPx0zUmUwumiVXapmaLUcAk3yPuHCFVXras9k5VT9TdhJqKqGVUQCD60OTMCl0qxJ57OiTL0Mic3Iag==
